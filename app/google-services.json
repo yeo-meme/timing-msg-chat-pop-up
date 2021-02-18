@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "715055811050",
+    "firebase_url": "https://message-42fe3.firebaseio.com",
+    "project_id": "message-42fe3",
+    "storage_bucket": "message-42fe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715055811050:android:5bb56f4a283c620f6f4a93",
+        "android_client_info": {
+          "package_name": "com.nalazoocare.messagechatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715055811050-cbc8kmmus4h2mq9kg8llt5u2h4cajea9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASpwvhcsDfQ-YgUL6pt-wXYwTI5IQEIOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715055811050-cbc8kmmus4h2mq9kg8llt5u2h4cajea9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
